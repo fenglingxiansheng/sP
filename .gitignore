@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.tmp/
+artifacts/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+public/models/isnetis.onnx
+public/models/*.part
+chunk_photo/
